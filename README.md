@@ -134,21 +134,9 @@ IV does **not need to be secret**, but it must:
 * Be random
 * Never repeat with the same key
 
----
 
 ## 📘 Notes
 
-* This project is simplified for educational/university use.
 * AES-128-CBC is easy to understand and implement.
 * For real-world security, AES-GCM is recommended.
-
----
-
-## ✨ Future Improvements
-
-* Add GUI version (Tkinter)
-* Add file encryption/decryption
-* Convert scripts into .exe files using PyInstaller
-* Add support for AES-256
-
 
