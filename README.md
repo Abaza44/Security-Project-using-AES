@@ -151,10 +151,4 @@ IV does **not need to be secret**, but it must:
 * Convert scripts into .exe files using PyInstaller
 * Add support for AES-256
 
----
 
-## 👨‍💻 Author
-
-This project was generated with the help of ChatGPT.
-
-If you want enhancements or more features, feel free to ask!
